@@ -1,0 +1,11 @@
+.container p {
+	font-size: 20px;
+	color: blue;
+}
+#two {
+  color: red;
+}
+#two~p{
+  color: green;
+}
+
